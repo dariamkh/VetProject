@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.top {
+    width: auto;
+    height: 799px;
+    background-color: #284854;
+    position: absolute;
+}
+
+.wrapper > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.wrapper > p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.block_text {
+    max-width: 712px;
+    color: #FFFFFF;
+    margin-right: 49px;
+    position: relative;
+    top: -30px;
+}
+
+.block_text h1 {
+    font-family: 'Roboto', 'serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 102px;
+    color: #8BC441;
+    margin-bottom: 60px;
+}
+
+.block_text p {
+    max-width: 542px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.pic1 {
+    max-width: 313px;
+    margin-left: -70px;
+    /* margin-top: -20px; */
+    top: 40px;
+    position: relative;
+}
+
+.top .wrapper > div {
+    margin: 142px 0 104px 180px;
+}
+
+header {
+    position: relative;
+    background-color: #60C1BD;
+    width: 1230px;
+    height: 81px;
+    border-radius: 100px;
+    margin-top:  20px;
+    margin-left: 105px;
+    margin-right: 105px;
+    font-family: 'Roboto', sans-serif;
+} 
+
+
+header p { 
+    display: inline-block;
+}
+
+.IndeVets {
+margin-top: 24px;
+margin-bottom: 24px;
+margin-left: 32px;
+margin-right: 305px;
+font-size: 30px;
+color: #FFFFFF;
+}  
+
+.Veterinarians {
+    color: #284854;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.hospitals {
+    color: #284854;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.why {
+    color: #284854;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+.login { 
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'Nunito Sans', sans-serif;
+    border: 1px solid #FFFFFF;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text1{ 
+    width: 712px;
+    height: 204px;
+    color: #8BC441;
+    font-size: 85px;
+    font-family: 'Roboto', sans-serif;
+    margin: 119px 548px 60px 180px
+}
+
+
+    .block1{ 
+    margin-left: 173px;
+    margin-right: 83px;
+    border-radius: 4px;
+    width: 506px;
+    height: 203px;
+    background-color: #F4F6F0;
+    display: inline-block;
+    margin-top: 720px;
+    position: relative;
+}
+
+.block1 > div {
+    display: inline-block;
+
+}
+
+.text_block1 {
+    margin: 48px 92px 48px 35px;
+    
+}
+
+.h_text_block1 {
+    color: #8BC441;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 43px;
+    margin-bottom: 10px;
+}
+
+.descr_text_block1 {
+    color: #60C1BD;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    max-width: 180px;
+}
+
+.pic2{ 
+    margin-left: 30px;
+}
+   
+
+.block2 {
+    width: 506px;
+    height: 203px;
+    background-color: #F4F6F0;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 720px;
+    position: relative;
+}
+
+.block2 > div {
+    display: inline-block;
+}
+
+.text_block2 {
+    margin: 48px 92px 48px 35px;
+
+}
+
+.h_text_block2 {
+    color: #8BC441;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 43px;
+    margin-bottom: 10px;
+}
+
+.descr_text_block2 {
+    color: #60C1BD;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    max-width: 180px;
+}
+
+.pic3 {
+    margin-left: 30px;
+}
+

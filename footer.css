@@ -1,0 +1,47 @@
+footer > div { 
+    display: inline-block;
+    color: #60C1BD;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.footer_block1 {
+    position: relative;
+    top: -140px;
+    margin-right: 151px;
+    margin-left: 150px;
+    margin-bottom: 71px;
+}
+
+.footer_block2 {
+    position: relative;
+    top: -140px;
+    margin-right: 100px;
+    margin-bottom: 71px;
+}
+
+.phone_dog { 
+    margin-top: 120px;
+    margin-right: 100px;
+    margin-bottom: 71px;
+}
+
+.footer_block3 {
+    position: relative;
+    top: -140px;
+    margin-right: 100px;
+    margin-bottom: 71px;
+}
+
+.p_head { 
+    color: #284854;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}

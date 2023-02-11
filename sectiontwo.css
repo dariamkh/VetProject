@@ -37,6 +37,7 @@
     font-weight: 700;
     font-size: 20px;
     line-height: 27px;
+    margin-bottom: 10px;
 }
 
 .p2 {
@@ -46,6 +47,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
+    margin-bottom: 10px;
 }
 
 .p3 {
@@ -66,11 +68,15 @@
 }
 
 .article2 {
-    margin: 135px 217px 114px 285px;
+    margin: 135px 217px 114px 220px;
 }
 
 .article2 > div { 
     display: inline-block;
+}
+
+.text_article2 { 
+    padding-right: 170px;
 }
 
 .p_2_1 {
@@ -80,6 +86,7 @@
     font-weight: 700;
     font-size: 20px;
     line-height: 27px;
+    margin-bottom: 10px;
 }
 
 .p_2_2 {
@@ -91,6 +98,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
+    margin-bottom: 10px;
 }
 
 .p_2_3 {
@@ -101,5 +109,50 @@
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
+    line-height: 29px;
+}
+
+.article3 {
+    margin: 135px 217px 114px 200px;
+}
+
+.article3 > div {
+    display: inline-block;
+}
+
+.text_article3 {
+    padding-left: 170px;
+}
+
+.p_3_1 {
+    color: #798B56;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.p_3_2 {
+    width: 540px;
+    height: 94px;
+    color: #8BC441;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 10px;
+}
+
+.p_3_3 {
+    width: 489px;
+    height: 116px;
+    color: #284854;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 29px;
 }

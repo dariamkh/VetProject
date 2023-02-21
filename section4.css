@@ -7,16 +7,29 @@
 
 
 .section4 > div { 
-    display: inline-block;
+    
 }
 
 .bicycle_dog {
-    
-    /* margin: 89px 165px 90px 185px; */
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: -900px;
+}
+
+.section4_text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .title_section4 {
     
+    display: flex;
+    align-self:center;
+    margin-left: 370px;
+    margin-top: -260px;
+
     width: 516px;
     height: 128px;
     /* margin: 50px 339px 57px 165px; */
@@ -28,10 +41,13 @@
     line-height: 64px;
 }
 
-.div1 {
-    width: 239px;
-    height: 81px;
-    /* margin: 57px 132px 86px 165px;  */
+.two_block_section3 {
+    display: flex;
+    align-self: center;
+    margin-left: 400px;
+    margin-top: 10px;
+    padding: 15px;
+
     color: #FFFFFF;
     font-family: 'Nunito Sans';
     font-style: normal;
@@ -40,14 +56,14 @@
     line-height: 27px;
 }
 
+.div1 {
+    width: 239px;
+    height: 81px;
+    margin-right: 100px;
+}
+
 .div2 {
     width: 210px;
     height: 81px;
-    /* margin: 57px 132px 86px 165px;  */
-    color: #FFFFFF;
-    font-family: 'Nunito Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
 }
+

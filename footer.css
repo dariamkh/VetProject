@@ -14,6 +14,7 @@ footer > div {
     margin-right: 151px;
     margin-left: 150px;
     margin-bottom: 71px;
+    line-height: 30px;
 }
 
 .footer_block2 {
@@ -21,6 +22,7 @@ footer > div {
     top: -140px;
     margin-right: 100px;
     margin-bottom: 71px;
+    line-height: 30px;
 }
 
 .phone_dog { 
@@ -31,9 +33,10 @@ footer > div {
 
 .footer_block3 {
     position: relative;
-    top: -140px;
+    top: -80px;
     margin-right: 100px;
     margin-bottom: 71px;
+    line-height: 30px;
 }
 
 .p_head { 
@@ -44,4 +47,48 @@ footer > div {
     line-height: 18px;
     letter-spacing: 2px;
     text-transform: uppercase;
+}
+
+.f_ttl {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #284854;
+    margin-bottom: 30px;
+}
+
+.footer__links{
+    display: flex;
+    flex-direction:row;
+    
+
+    list-style-type: none;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #60C1BD;
+}
+
+.footer__links li {
+    margin: 20px;
+}
+
+.footer__logo {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #284854;
+
+}
+
+.footer__nav div { 
+    margin-left: 130px;
 }
